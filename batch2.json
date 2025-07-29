@@ -1,0 +1,7 @@
+
+  {"order_id": 1016, "customer_id": 516, "item": "chairs", "amount": 2999.89, "timestamp": "2025-07-26T13:06:00"}
+  {"order_id": 1017, "customer_id": 517, "item": "Sofa", "amount": 58999.99, "timestamp": "2025-07-24T16:07:00"}
+  {"order_id": 1018, "customer_id": 518, "item": "Kitchen_furniture", "amount": 77999.99, "timestamp": "2025-07-26T15:08:00"}
+  {"order_id": 1019, "customer_id": 519, "item": "Air_conditioners", "amount": 89999.99, "timestamp": "2025-07-26T19:09:00"}
+  {"order_id": 1020, "customer_id": 520, "item": "Iron_pipes", "amount": 100999.99, "timestamp": "2025-07-26T18:10:00"}
+  

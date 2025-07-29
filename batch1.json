@@ -1,0 +1,16 @@
+
+{"order_id": 1001, "customer_id": 501, "item": "Mobile", "amount": 19999.99, "timestamp": "2025-07-29T12:00:00"}
+{"order_id": 1002, "customer_id": 502, "item": "Laptop", "amount": 49999.99, "timestamp": "2025-07-29T12:01:00"}
+{"order_id": 1003, "customer_id": 503, "item": "Tablet", "amount": 29999.99, "timestamp": "2025-07-29T12:02:00"}
+{"order_id": 1004, "customer_id": 504, "item": "Headphones", "amount": 999.99, "timestamp": "2025-07-29T12:03:00"}
+{"order_id": 1005, "customer_id": 505, "item": "Watch", "amount": 1999.99, "timestamp": "2025-07-29T12:05:00"}
+{"order_id": 1006, "customer_id": 506, "item": "Washing Machine", "amount": 49999.99, "timestamp": "2025-07-29T12:06:00"}
+{"order_id": 1007, "customer_id": 507, "item": "Refrigerator", "amount": 59999.99, "timestamp": "2025-07-29T12:07:00"}
+{"order_id": 1008, "customer_id": 508, "item": "Television", "amount": 39999.99, "timestamp": "2025-07-29T12:08:00"}
+{"order_id": 1009, "customer_id": 509, "item": "Camera", "amount": 69999.99, "timestamp": "2025-07-29T12:09:00"}
+{"order_id": 1010, "customer_id": 510, "item": "Desktop", "amount": 29999.99, "timestamp": "2025-07-29T12:10:00"}
+{"order_id": 1011, "customer_id": 511, "item": "Washing Machine", "amount": 49999.99, "timestamp": "2025-07-27T12:06:00"}
+{"oreder_id": 1012, "customer_id": 512, "item": "Refrigerator", "amount": 59999.99, "timestamp": "2025-07-27T12:07:00"}
+{"order_id": 1013, "customer_id": 513, "item": "Television", "amount": 39999.99, "timestamp": "2025-07-27T12:08:00"}
+{"order_id": 1014, "customer_id": , "item": "Camera", "amount": 69999.99, "timestamp": "2025-07-27T12:09:00"}
+{"order_id": 1015, "customer_id": 515, "item": "Desktop", "amount": 29999.99, "timestamp": "2025-07-27T12:10:00"}
